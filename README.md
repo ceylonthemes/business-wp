@@ -1,6 +1,6 @@
 # Business WP Theme
 
-![Business wp wordpress theme](wordpress-business-theme/screenshot.png?raw=true)
+![Business wp wordpress theme](https://github.com/ceylonthemes/wordpress-business-theme/blob/master/screenshot.png?raw=true)
 
 The Business WP is a creative multipurpose business theme ideal for Portfolio, Business, Corporate, WooCommerce shop, Travel and Creative agencies. The Flexibility and Theme Options such as Services, Woocommerce integration, Contact, Callout, Social, Team, Skills, Testimonials, Slider, Header & footer Customization, typography features provided in theme will amaze you. It’s built the way after customization, that you feel the theme your own. Looking for a Multi Purpose theme? Look no further! See the demo, The only theme you will ever need: https://wordpress.org/themes/the-business-wp/ For more information about the Business WP Pro theme please go to https://www.ceylonthemes.com/product/business-wp-pro
 
