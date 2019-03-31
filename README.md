@@ -8,7 +8,7 @@ The Business WP is a creative multipurpose business theme ideal for Portfolio, B
 
 #  Installation
 
- 1.  In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
+ 1.  In your wordpress admin panel, go to Appearance -> Themes and click the 'Add New' button.
  2.  Type in the-business-wp in the search form and press the 'Enter' key on your keyboard.
  3.  Click on the 'Activate' button to use your new theme right away.
 
