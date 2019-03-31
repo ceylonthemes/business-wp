@@ -6,13 +6,13 @@ The Business WP is a creative multipurpose business theme ideal for Portfolio, B
 
 The Business WP is a creative multipurpose business theme ideal for Portfolio, Business, Corporate, WooCommerce shop, Travel and Creative agencies. The Flexibility and Theme Options such as Services, Woocommerce integration, Contact, Callout, Social, Team, Skills, Testimonials, Slider, Header & footer Customization, typography features provided in theme will amaze you. It’s built the way after customization, that you feel the theme your own. Looking for a Multi Purpose theme? Look no further! See the demo, The only theme you will ever need: https://wordpress.org/themes/the-business-wp/ For more information about the Business WP Pro theme please go to https://www.ceylonthemes.com/product/business-wp-pro
 
-# == Installation ==
+#  Installation
 
  1.  In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
  2.  Type in the-business-wp in the search form and press the 'Enter' key on your keyboard.
  3.  Click on the 'Activate' button to use your new theme right away.
 
-# ==  How to Setup ? == 
+#   How to Setup ? 
 
   (Fresh installations, Go to Appearance > Customize > Publish to save the starter content such as menu bars, widgets ect:-)
 
@@ -45,13 +45,13 @@ The Business WP is a creative multipurpose business theme ideal for Portfolio, B
  8. Add News/Blog to home page, Go to, Appearance > Customize > Theme Options > News. Select a post category to display latest news / events.
  
 
-# ==  More customizations: == 
+#   More customizations: 
 
  1.  Go to, to https://www.ceylonthemes.com/wp-tutorials for more guides on how to customize the theme.
  2.  Navigate to Appearance > Customize in your admin panel and customize to taste.
  
 
-# == Frequently Asked Questions ==
+#  Frequently Asked Questions 
 
 = Installed The Business WP theme, What is next ? =
 
@@ -92,7 +92,7 @@ The Business WP is a creative multipurpose business theme ideal for Portfolio, B
 = Header image appears with Home slider ? =
  Go to, Appearance > Customize > Header Image > Check, Disable home header image.
 
-# == Copyright ==
+#  Copyright 
 
 The Business WP WordPress Theme, Copyright 2018 ceylonthemes.com
 The Business WP is distributed under the terms of the GNU GPL
@@ -107,7 +107,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-# == Resources ==
+#  Resources 
 
 * HTML5 Shiv, Copyright 2014 Alexander Farkas
 * Licenses: MIT/GPL2
